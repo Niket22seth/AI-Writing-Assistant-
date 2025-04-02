@@ -1,0 +1,109 @@
+﻿ASSIGNMENTS
+
+
+LAB 1
+
+Q1: Initialize some variables with different types of values and analyze their types
+Q2: WAPP to initialize roll number, name, and branch, then display details
+Q3: WAPP to initialize two variables and perform arithmetic operations
+Q4: WAPP to enter 3 numbers and find their sum
+Q5: WAPP to calculate compound interest
+Q6: WAPP to swap two numbers without a third variable
+Q7: WAPP to enter 2 numbers and implement all relational operations
+Q8: WAPP to convert paise into rupees and paise
+Q9: WAPP to convert seconds into hours, minutes, and seconds
+Q10: WAPP to convert meters into kilometers and meters
+Q11: WAPP to calculate a cashier’s gross salary
+Q12: WAPP to initialize variables in Python, analyze and delete them
+
+LAB 2
+
+Q1: Create a list and perform operations (length, duplicates, reverse)
+Q2: Concatenate two lists index-wise
+Q3: Square every element in a list
+Q4: Extend nested list by adding sublist
+Q5: Remove all occurrences of a specific item from a list
+Q6: Perform operations on a list
+    (a) Find max
+    (b) Find min
+    (c) Find sum
+    (d) Find length of the list
+    (e) Join two lists
+    (f) Repeat elements in a list
+    (g) Check if a value exists in a list
+    (h) Convert tuple, string, set to list
+    (i) Sort a list
+LAB 3
+
+Q1: WAPP Maximum and Minimum K elements in Tuple(Find 1st maximum and 2nd maximum,same for minimum)
+Q2: WAPP  Row-wise element Addition in Tuple Matrix.
+Q3: Python  Elements frequency in Tuple.
+Q4: WAPP all pair combinations of 2 tuples
+Q5: WAPP test if tuple is distinct.true or false.
+Q6: Write a Python script to sort (ascending and descending) a dictionary by value.
+Q7: Write a Python program to get the maximum and minimum values of a dictionary.
+Q8: Write a Python program to create a dictionary of keys x, y, and z where each key has as value a list from 11-20, 21-30, and 31-40 respectively. Access the fifth value of each key from the dictionary.(Take value from keyboard through keyboard).
+Q9: WAPP Program to create grade calculator in Python.
+Q10: WAPP Key with maximum unique values.
+
+
+LAB 4
+
+Q1: Write a program that creates a list of numbers from 1 to 20 that are divisible by 4. without using Filter ().
+Q2: Write a program that has a list of both positive and negative numbers.use FILTER() which contains only positive values.
+Q3: Write program that converts all strings of uppercase into lower case letters using map().
+Q4: Write a program to find largest value in a list using reduce() .(input through keyboard).
+Q5: Write a program that returns the area and circumference of a circle whose radius is passed as argument.
+Q6: Write a Python program for binary search.(input through keyboard).
+Q7: Write a Python program for sequential search.
+Q8: Write a Python program for binary search of an ordered list.
+Q9: Perform jump search to find the target value in the given sorted list.
+Q10: Write a program to calculates the probable position of the target value based on the value of the key and the range of the search space.
+
+LAB 5
+
+Q1. Write a Python program to sort a list of elements using the bubble sort algorithm. Input: Sequence: 2, 23, 10, 1, 78, 45, 65
+Q2.Write a Python program to sort a list of elements using Heap sort.
+Q3. Write a Python program to sort a list of elements using the quick sort algorithm.
+Q4. Write a Python program to sort a list of elements using the merge sort algorithm.
+Q5. Write a Python program to sort a list of elements using the insertion sort algorithm.
+Q6. Write a Python program to sort a list of elements using the selection sort algorithm.
+
+
+LAB 6
+
+Q1. WAP THAT SCANS AN EMAIL ADDRESS AND FORMS A TUPLE OF USER NAME AND DOMAIN.
+Q2. WAP THAT STORE LIST OF NUMBERS(BOTH POSITIVE AND NEGATIVE).MAKE NEW TUPLE THAT HAS ONLY POSITIVE VALUES FROM THIS LIST.
+Q3. WAP THAT GENERATES SET OF PRIME NUMBERS AND ANOTHER SET OF ODD NUMBERS.DEMONSTRATE THE RESULT OF UNION ,INTERSECTION,DIFFERENCE ON THESE SETS.
+Q4. WAP TO CREATE  A LIST OF BRICS COUNTRY SORTED THEM USING SET.
+Q5. WAP TO FIND TO TAKE TWO SET OF NUMBERS AND FIND THE SYMMETRIC DIFFRENCE BETWEEN TWO SETS.
+Q6. Wapp randomly take two sets of numbers, write a Python program to find the missing numbers in the second set as compared to the first and vice versa. Use the Python set.
+
+
+
+
+LAB 7
+
+Assignment on Scheduling Algorithm using Python. Write a program
+for implementation the following algorithm using Python.
+
+First Come First Served (FCFS)
+Shortest Job First (SJF)
+Longest Job First (LJF)
+Priority Scheduling
+Round Robin (RR)
+Shortest Remaining Time First (SRTF)
+Longest Remaining Time First (LRTF)
+
+Calculate Turnaround Time, Waiting Time, Average Waiting Time,
+and completion time of different scheduling algorithm taking necessary user
+input and use necessary data structure like (list, dictionary as per your
+needs).
+
+
+
+
+Niket Kumar Gupta
+2206398
+IT02
+
